@@ -1,17 +1,17 @@
 # [Getting started with AWS](https://aws.amazon.com/getting-started/)
-    - [Setting up AWS Account](https://aws.amazon.com/getting-started/guides/setup-environment/?pg=gs&sec=gtkaws)
-        - Create a new AWS account
-		- Secure the root user
-		- Create an IAM user to use in the account
-		- Setup the AWS CLI
-		- Setup an AWS Cloud9 environment
-	- [Getting Started with the AWS Management Console](https://aws.amazon.com/getting-started/hands-on/getting-started-with-aws-management-console/?pg=gs&sec=gtkaws)
-	- [Getting Started with AWS Cloud Development Kit](https://aws.amazon.com/getting-started/guides/setup-cdk/?pg=gs&sec=gtkaws)
+  - [Setting up AWS Account](https://aws.amazon.com/getting-started/guides/setup-environment/?pg=gs&sec=gtkaws)
+    - Create a new AWS account
+    - Secure the root user
+    - Create an IAM user to use in the account
+    - Setup the AWS CLI
+    - Setup an AWS Cloud9 environment
+    - [Getting Started with the AWS Management Console](https://aws.amazon.com/getting-started/hands-on/getting-started-with-aws-management-console/?pg=gs&sec=gtkaws)
+    - [Getting Started with AWS Cloud Development Kit](https://aws.amazon.com/getting-started/guides/setup-cdk/?pg=gs&sec=gtkaws)
       AWS Cloud Development Kit (CDK) is an open source software development framework that allows to define cloud application
 	  resources using familiar programming languages, like JavaScript, TypeScript, Python, Java and C#. The code gets transpiled
 	  into CloudFormation templates and creates infrastructure using AWS CloudFormation.
-	- [Cloud Essentials](https://aws.amazon.com/getting-started/cloud-essentials/?pg=gs&refid=ff721c0f-c85d-4643-817f-04fb0e8a7323)
-	    - What is cloud computing?
+    - [Cloud Essentials](https://aws.amazon.com/getting-started/cloud-essentials/?pg=gs&refid=ff721c0f-c85d-4643-817f-04fb0e8a7323)
+       - What is cloud computing?
 		- What is AWS Cloud?
 		- On-premises and Cloud computing
 		- IaaS, PaaS, SaaS
